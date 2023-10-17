@@ -1,0 +1,2 @@
+This is a text file opened at the mouse position.
+Mouse X: 312, Mouse Y: 275
